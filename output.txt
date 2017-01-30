@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Motherchod))
+    (VP (VBZ is)
+      (NP (DT the) (NN man)))
+    (, ,)))
+
+nsubj(man-4, Motherchod-1)
+cop(man-4, is-2)
+det(man-4, the-3)
+root(ROOT-0, man-4)
+
